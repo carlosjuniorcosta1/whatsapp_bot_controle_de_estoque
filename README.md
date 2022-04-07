@@ -8,4 +8,6 @@ Faça isso e aguarde o programa localizar seu grupo. Ele vai ficar em stand by, 
 
 Dessa forma, apenas escreva 'cadastrar produto' ou 'emitir nota' na tela de mensagens do grupo de whatsapp que o robô vai ser ativado e responder. 
 
+Em breve, vou implementar: filtro de respostas para evitar que o usuário responda com imagens e ajustar o tempo entre uma msg e outra. 
+
 
